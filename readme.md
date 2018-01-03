@@ -5,3 +5,4 @@
 #### By _**{Chase Bowden and Jared Clemmensen}**_
 
 ## Description
+Simple website for Bangkok Sunrise resort. Includes two branches for different styling options. 
