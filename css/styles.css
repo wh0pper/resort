@@ -1,23 +1,28 @@
 body {
-  background-color: lightblue;
+  background: url(bgrnd.jpg);
+  background-attachment: fixed;
   text-align: center;
+  color: lightgreen;
 
+}
+a:visited{
+  color:white;
 }
 
 h1 {
-  font: 30px arial, san-serif;
+  font: 45px arial, san-serif;
 }
 
 h2 {
-  font: 20px arial, san-serif;
+  font: 25px arial, san-serif;
 }
 
 p {
-  font: 15px arial, san-serif;
+  font: 22px arial, san-serif;
 }
 
 img {
-  width: 600px;
+  width: 500px;
 }
 
 li {
