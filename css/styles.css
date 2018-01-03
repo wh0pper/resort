@@ -1,4 +1,29 @@
 body {
-  
+  background-color: lightblue;
+  text-align: center;
 
+}
+
+h1 {
+  font: 30px arial, san-serif;
+}
+
+h2 {
+  font: 20px arial, san-serif;
+}
+
+p {
+  font: 15px arial, san-serif;
+}
+
+img {
+  width: 600px;
+}
+
+li {
+  font: 15px arial, san-serif;
+}
+
+ul {
+  list-style-type: none;
 }
